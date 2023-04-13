@@ -1,12 +1,13 @@
 import './App.css';
-import Weather from "./Weather";
+import Climate from "./Climate";
+
 
 export default function App() {
   return (
     <div className="App">
       <div className="Container">
         <div className="Wrapper">
-          <Weather />
+          <Climate />
         </div>
       </div>
     </div>

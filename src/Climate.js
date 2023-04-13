@@ -1,11 +1,11 @@
 import React from "react";
 import Overview from "./Overview";
 import Temperature from "./Temperature";
-import "./Weather.css";
+import "./Climate.css";
 
-export default function Weather() {
+export default function Climate() {
   return (
-    <div className="Weather">
+    <div className="Climate">
       <form id="search-form" className="mb-3">
         <div className="row">
           <div className="col-9 w-70">
