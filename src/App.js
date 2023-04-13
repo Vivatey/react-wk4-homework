@@ -1,6 +1,5 @@
-import './App.css';
+import "./App.css";
 import Climate from "./Climate";
-
 
 export default function App() {
   return (
@@ -10,7 +9,16 @@ export default function App() {
           <Climate />
         </div>
       </div>
-      <footer><a href="https://github.com/Vivatey/react-wk4-homework" target="_blank" rel="noreferrer">Open-source code</a> by Viv.</footer>
+      <footer>
+        <a
+          href="https://github.com/Vivatey/react-wk4-homework"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code
+        </a>{" "}
+        by Viv.
+      </footer>
     </div>
   );
 }

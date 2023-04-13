@@ -5,7 +5,7 @@ export default function Overview() {
   let overviewData = {
     city: "London",
     date: "Wednesday 22:30",
-    description: "Cloudy"
+    description: "Cloudy",
   };
   return (
     <div className="Overview">
