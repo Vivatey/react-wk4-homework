@@ -10,7 +10,7 @@ export default function App() {
           <Climate />
         </div>
       </div>
-      <p><a href="https://github.com/Vivatey/react-wk4-homework">Open-source code</a> by Viv.</p>
+      <footer><a href="https://github.com/Vivatey/react-wk4-homework" target="_blank" rel="noreferrer">Open-source code</a> by Viv.</footer>
     </div>
   );
 }
